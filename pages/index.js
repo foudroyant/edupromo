@@ -72,8 +72,8 @@ export default function Home() {
         <ListSubheader component="div">Ouesso</ListSubheader>
       </ImageListItem>
       {itemData.map((item, index) => (
-        <Link href={"/ecole/"+index} >
-        <ImageListItem key={item.img}>
+        <Link href={"/ecole/"+index} key={index}>
+        <ImageListItem key={item.img} >
           <img
             srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
             src={`${item.img}?w=248&fit=crop&auto=format`}
