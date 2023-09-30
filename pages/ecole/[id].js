@@ -174,7 +174,97 @@ const details = [
             }
         ],
         "images" : []
-    }
+    },
+    {
+        "id" : 1,
+        "label" : "La Methode",
+        "image" :"https://img.freepik.com/free-photo/african-kids-having-lesson-school_23-2148892536.jpg?size=626&ext=jpg&ga=GA1.1.498130083.1663108414&semt=ais",
+        "description" : "Éducation primaire de qualité avec un accent sur l'apprentissage ludique. Cours enrichis, activités artistiques, éducation physique. Fête annuelle des talents, compétition sportive inter-écoles.",
+        "localite" : "Pointe-noire",
+        "adresse" : "Quartier Tié-tié vers l'hopital de base.",
+        "contact" : "+242 05 001 33 14",
+        "messages" : [
+            {"entete" : "La rentrée scolaire", "contenu" : "Un contenu très intéressant pour tous!"},
+            {
+                "entete" : "Résultat des examens du mois d'Octobre",
+                "contenu" : `CM1 : 5 admis et 4 échoués\n
+                CM2 : 10 admis et 3 échoués.`
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 1,
+        "label" : "La Moisson",
+        "image" :"https://img.freepik.com/free-photo/african-kids-having-lesson-school_23-2148892536.jpg?size=626&ext=jpg&ga=GA1.1.498130083.1663108414&semt=ais",
+        "description" : "Éducation primaire de qualité avec un accent sur l'apprentissage ludique. Cours enrichis, activités artistiques, éducation physique. Fête annuelle des talents, compétition sportive inter-écoles.",
+        "localite" : "Pointe-noire",
+        "adresse" : "Quartier Tié-tié vers l'hopital de base.",
+        "contact" : "+242 05 001 33 14",
+        "messages" : [
+            {"entete" : "La rentrée scolaire", "contenu" : "Un contenu très intéressant pour tous!"},
+            {
+                "entete" : "Résultat des examens du mois d'Octobre",
+                "contenu" : `CM1 : 5 admis et 4 échoués\n
+                CM2 : 10 admis et 3 échoués.`
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 1,
+        "label" : "Remo",
+        "image" :"https://img.freepik.com/free-photo/african-kids-having-lesson-school_23-2148892536.jpg?size=626&ext=jpg&ga=GA1.1.498130083.1663108414&semt=ais",
+        "description" : "Éducation primaire de qualité avec un accent sur l'apprentissage ludique. Cours enrichis, activités artistiques, éducation physique. Fête annuelle des talents, compétition sportive inter-écoles.",
+        "localite" : "Pointe-noire",
+        "adresse" : "Quartier Tié-tié vers l'hopital de base.",
+        "contact" : "+242 05 001 33 14",
+        "messages" : [
+            {"entete" : "La rentrée scolaire", "contenu" : "Un contenu très intéressant pour tous!"},
+            {
+                "entete" : "Résultat des examens du mois d'Octobre",
+                "contenu" : `CM1 : 5 admis et 4 échoués\n
+                CM2 : 10 admis et 3 échoués.`
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 1,
+        "label" : "Thereza",
+        "image" :"https://img.freepik.com/free-photo/african-kids-having-lesson-school_23-2148892536.jpg?size=626&ext=jpg&ga=GA1.1.498130083.1663108414&semt=ais",
+        "description" : "Éducation primaire de qualité avec un accent sur l'apprentissage ludique. Cours enrichis, activités artistiques, éducation physique. Fête annuelle des talents, compétition sportive inter-écoles.",
+        "localite" : "Pointe-noire",
+        "adresse" : "Quartier Tié-tié vers l'hopital de base.",
+        "contact" : "+242 05 001 33 14",
+        "messages" : [
+            {"entete" : "La rentrée scolaire", "contenu" : "Un contenu très intéressant pour tous!"},
+            {
+                "entete" : "Résultat des examens du mois d'Octobre",
+                "contenu" : `CM1 : 5 admis et 4 échoués\n
+                CM2 : 10 admis et 3 échoués.`
+            }
+        ],
+        "images" : []
+    },
+    {
+        "id" : 1,
+        "label" : "La Forge",
+        "image" :"https://img.freepik.com/free-photo/african-kids-having-lesson-school_23-2148892536.jpg?size=626&ext=jpg&ga=GA1.1.498130083.1663108414&semt=ais",
+        "description" : "Éducation primaire de qualité avec un accent sur l'apprentissage ludique. Cours enrichis, activités artistiques, éducation physique. Fête annuelle des talents, compétition sportive inter-écoles.",
+        "localite" : "Pointe-noire",
+        "adresse" : "Quartier Tié-tié vers l'hopital de base.",
+        "contact" : "+242 05 001 33 14",
+        "messages" : [
+            {"entete" : "La rentrée scolaire", "contenu" : "Un contenu très intéressant pour tous!"},
+            {
+                "entete" : "Résultat des examens du mois d'Octobre",
+                "contenu" : `CM1 : 5 admis et 4 échoués\n
+                CM2 : 10 admis et 3 échoués.`
+            }
+        ],
+        "images" : []
+    },
 ]
 
 
